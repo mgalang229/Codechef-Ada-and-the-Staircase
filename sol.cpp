@@ -14,6 +14,7 @@ int main() {
 		for (int i = 0; i < n; i++) {
 			cin >> h[i];
 		}
+		// view the image in this repository for better understanding
 		// create a 'prev'-like variable
 		int initial_height = 0;
 		int cnt = 0;
